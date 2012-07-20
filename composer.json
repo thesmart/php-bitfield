@@ -1,5 +1,5 @@
 {
-	"name": "bitfield",
+	"name": "thesmart/bitfield",
 	"type": "library",
 	"description": "Map an array of options to a binary bitfield as a string or integer, and back again.",
 	"keywords": ["array","arrays","bitfield","bitmapper","options"],
